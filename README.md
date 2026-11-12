@@ -1,4 +1,4 @@
-# indraft-io
+# Indraft
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,146 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-indraft-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://indraft.io/
+Indraft provides a canonical CRM designed to be read and written by AI agents through MCP and REST. It offers safe writes, full attribution, and a human interface for inspection and correction, enabling agents to manage customer relationships with AI-native tooling.
+
+**Areas:** Company · CRM · AI · Automation · SaaS
+
+## Indraft on APIs.io
+
+Everything profiled for Indraft is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/indraft-io/](https://apis.io/providers/indraft-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (23)
+
+- [Indraft Admin API](https://apis.io/apis/indraft-io/indraft-io-admin-api/) — The admin API from Indraft — 6 operation(s) for admin.
+- [Indraft Billing API](https://apis.io/apis/indraft-io/indraft-io-billing-api/) — The billing API from Indraft — 3 operation(s) for billing.
+- [Indraft Bulk API](https://apis.io/apis/indraft-io/indraft-io-bulk-api/) — The bulk API from Indraft — 1 operation(s) for bulk.
+- [Indraft Changes API](https://apis.io/apis/indraft-io/indraft-io-changes-api/) — The changes API from Indraft — 2 operation(s) for changes.
+- [Indraft Companies API](https://apis.io/apis/indraft-io/indraft-io-companies-api/) — The companies API from Indraft — 9 operation(s) for companies.
+- [Indraft Connections API](https://apis.io/apis/indraft-io/indraft-io-connections-api/) — The connections API from Indraft — 2 operation(s) for connections.
+- [Indraft Contacts API](https://apis.io/apis/indraft-io/indraft-io-contacts-api/) — The contacts API from Indraft — 9 operation(s) for contacts.
+- [Indraft Custom Fields API](https://apis.io/apis/indraft-io/indraft-io-custom-fields-api/) — The custom-fields API from Indraft — 2 operation(s) for custom-fields.
+- [Indraft custom objects API](https://apis.io/apis/indraft-io/indraft-io-custom-objects-api/) — The custom objects API from Indraft — 8 operation(s) for custom objects.
+- [Indraft Exchange Rates API](https://apis.io/apis/indraft-io/indraft-io-exchange-rates-api/) — The exchange-rates API from Indraft — 1 operation(s) for exchange-rates.
+- [Indraft Export API](https://apis.io/apis/indraft-io/indraft-io-export-api/) — The export API from Indraft — 2 operation(s) for export.
+- [Indraft Interactions API](https://apis.io/apis/indraft-io/indraft-io-interactions-api/) — The interactions API from Indraft — 1 operation(s) for interactions.
+- [Indraft Merges API](https://apis.io/apis/indraft-io/indraft-io-merges-api/) — The merges API from Indraft — 1 operation(s) for merges.
+- [Indraft Opportunities API](https://apis.io/apis/indraft-io/indraft-io-opportunities-api/) — The opportunities API from Indraft — 4 operation(s) for opportunities.
+- [Indraft Pipelines API](https://apis.io/apis/indraft-io/indraft-io-pipelines-api/) — The pipelines API from Indraft — 1 operation(s) for pipelines.
+- [Indraft Provenance API](https://apis.io/apis/indraft-io/indraft-io-provenance-api/) — The provenance API from Indraft — 1 operation(s) for provenance.
+- [Indraft Reporting API](https://apis.io/apis/indraft-io/indraft-io-reporting-api/) — The reporting API from Indraft — 2 operation(s) for reporting.
+- [Indraft Schema API](https://apis.io/apis/indraft-io/indraft-io-schema-api/) — The schema API from Indraft — 1 operation(s) for schema.
+- [Indraft Search API](https://apis.io/apis/indraft-io/indraft-io-search-api/) — The search API from Indraft — 1 operation(s) for search.
+- [Indraft Tasks API](https://apis.io/apis/indraft-io/indraft-io-tasks-api/) — The tasks API from Indraft — 4 operation(s) for tasks.
+- [Indraft Unconfirmed API](https://apis.io/apis/indraft-io/indraft-io-unconfirmed-api/) — The unconfirmed API from Indraft — 1 operation(s) for unconfirmed.
+- [Indraft Watches API](https://apis.io/apis/indraft-io/indraft-io-watches-api/) — The watches API from Indraft — 2 operation(s) for watches.
+- [Indraft Webhooks API](https://apis.io/apis/indraft-io/indraft-io-webhooks-api/) — The webhooks API from Indraft — 4 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Indraft Io Webhooks](https://apis.io/asyncapis/indraft-io/indraft-io-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Indraft Agentic Access](https://apis.io/agentic-access/indraft-io/indraft-io-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Indraft Io Context](https://apis.io/jsonld/indraft-io/indraft-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Indraft API Rules](https://apis.io/rules/indraft-io/indraft-io-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Indraft Authentication](https://apis.io/security/indraft-io/indraft-io-authentication/)
+- [Indraft Domain Security](https://apis.io/security/indraft-io/indraft-io-domain-security/)
+- [Indraft Vulnerability Disclosure](https://apis.io/security/indraft-io/indraft-io-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Indraft Plans Pricing](https://apis.io/plans/indraft-io/indraft-io-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://indraft.io/)
+- [Documentation](https://indraft.io/docs)
+- [Getting started](https://indraft.io/who-its-for)
+- [Pricing](https://indraft.io/pricing)
+- [Security](https://indraft.io/security)
+- [Terms of service](https://indraft.io/legal/terms)
+- [Privacy policy](https://indraft.io/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 57.8** — strong · rubric 0.27.0 · scored 2026-11-12
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 58.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 39.8 |
+| Access clarity | 73.2 |
+
+**Agent readiness 68.5** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/indraft-io/](https://apis.io/providers/indraft-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Indraft: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/indraft-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
